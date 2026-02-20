@@ -1,0 +1,27 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Pampers Premium Care G - 68un",
+    "brand": "Pampers",
+    "category": "fralda",
+    "is_unit_based": true,
+    "price": 54.90,
+    "unit_price": 0.81,
+    "discount_percent": 23,
+    "best_price_90_days": true,
+    "image_url": "https://via.placeholder.com/150",
+    "affiliate_url": "https://www.mercadolivre.com.br/"
+  },
+  {
+    "id": "prod_2",
+    "name": "Lenços Umedecidos Pampers - 192un",
+    "brand": "Pampers",
+    "category": "lenco",
+    "is_unit_based": false,
+    "price": 29.90,
+    "discount_percent": 31,
+    "best_price_90_days": true,
+    "image_url": "https://via.placeholder.com/150",
+    "affiliate_url": "https://www.mercadolivre.com.br/"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "user_1",
+    "name": "Usuária Fundadora",
+    "email": "fundadora@teste.com",
+    "subscription_status": "active",
+    "is_founder": true,
+    "economy_accumulated": 347.50
+  }
+]

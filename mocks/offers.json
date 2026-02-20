@@ -1,0 +1,30 @@
+[
+  {
+    "id": "offer_001",
+    "product_id": "prod_001",
+    "nome": "Pampers Premium Care G - 68 un",
+    "imagem_url": "https://via.placeholder.com/150",
+    "marketplace": "Mercado Livre",
+    "preco_atual": 54.90,
+    "preco_medio_90d": 71.20,
+    "economia_estimada": 16.30,
+    "percentual_abaixo_media": 23,
+    "custo_por_unidade": 0.81,
+    "menor_preco_90d": true,
+    "url_compra": "https://www.mercadolivre.com.br/"
+  },
+  {
+    "id": "offer_002",
+    "product_id": "prod_002",
+    "nome": "Lenços Umedecidos Huggies - 192 un",
+    "imagem_url": "https://via.placeholder.com/150",
+    "marketplace": "Shopee",
+    "preco_atual": 29.90,
+    "preco_medio_90d": 43.00,
+    "economia_estimada": 13.10,
+    "percentual_abaixo_media": 31,
+    "custo_por_unidade": null,
+    "menor_preco_90d": false,
+    "url_compra": "https://shopee.com.br/"
+  }
+]

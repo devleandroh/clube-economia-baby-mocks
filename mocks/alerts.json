@@ -1,0 +1,16 @@
+[
+  {
+    "id": "alert_1",
+    "type": "unit",
+    "brand": "Pampers",
+    "max_price": 0.75,
+    "active": true
+  },
+  {
+    "id": "alert_2",
+    "type": "total",
+    "brand": "Huggies",
+    "max_price": 29.90,
+    "active": true
+  }
+]
