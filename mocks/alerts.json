@@ -1,16 +1,25 @@
 [
   {
-    "id": "alert_1",
-    "type": "unit",
-    "brand": "Pampers",
-    "max_price": 0.75,
-    "active": true
+    "id": "alert_001",
+    "user_id": "user_001",
+    "tipo": "produto_fechado",
+    "categoria": "Pomada",
+    "marca": "Mustela",
+    "nome_produto": "Pomada Preventiva Mustela 123",
+    "preco_maximo_total": 25.90,
+    "ativo": true,
+    "canal_notificacao": ["app"],
+    "criado_em": "2026-02-20"
   },
   {
-    "id": "alert_2",
-    "type": "total",
-    "brand": "Huggies",
-    "max_price": 29.90,
-    "active": true
+    "id": "alert_002",
+    "user_id": "user_001",
+    "tipo": "fralda",
+    "marca": "Pampers",
+    "tamanho": "G",
+    "preco_maximo_por_unidade": 0.80,
+    "ativo": true,
+    "canal_notificacao": ["app", "email"],
+    "criado_em": "2026-02-21"
   }
 ]
