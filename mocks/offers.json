@@ -5,7 +5,7 @@
     "nome": "Pomada Preventiva Mustela 123",
     "imagem_url": "https://via.placeholder.com/150",
     "marketplace": "Teste",
-    "preco_atual": 24.90,
+    "preco_atual": 21.90,
     "preco_medio_90d": 30.00,
     "economia_estimada": 5.10,
     "percentual_abaixo_media": 17,
@@ -14,5 +14,6 @@
     "url_compra": "https://teste.com"
   }
 ]
+
 
 
