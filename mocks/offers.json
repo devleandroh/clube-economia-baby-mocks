@@ -19,7 +19,7 @@
     "nome": "Lenços Umedecidos Huggies - 192 un",
     "imagem_url": "https://via.placeholder.com/150",
     "marketplace": "Shopee",
-    "preco_atual": 29.90,
+    "preco_atual": 35.90,
     "preco_medio_90d": 43.00,
     "economia_estimada": 13.10,
     "percentual_abaixo_media": 31,
@@ -27,4 +27,5 @@
     "menor_preco_90d": false,
     "url_compra": "https://shopee.com.br/"
   }
+
 ]
